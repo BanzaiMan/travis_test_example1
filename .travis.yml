@@ -1,0 +1,4 @@
+script: 'echo $FOO; exit 0'
+env:
+  global:
+    secure: eELyXv+2P01cW3fLgT0VMjumXqGvriCxDFUgl2ayz3HglcJ+1scyh8npIeXX5exRVdfRo2SIfcrrFpDLGo/PWhNLjHM00LrFqF1FoE32fOSQOvjoE53348x34rZTB2INdzSwjwmpiPfls1x80dowkzIgqL8k8VbC3Miegf8oM/4=
