@@ -12,3 +12,4 @@ ruby:
   - "2.0.0"
   - "1.9.3"
 
+gemfile: gemfiles/Gemfile.ci
